@@ -56,8 +56,8 @@ we have trained our model using Decision Tree and it can be prone to overfitting
      <td>Auc Roc Curve:</td>
   </tr>
   <tr>
-    <td><img src="static/saves/3.jpg"></td>
     <td><img src="static/saves/2.jpg"></td>
+    <td><img src="static/saves/3.jpg"></td>
   </tr>
  </table>
         
