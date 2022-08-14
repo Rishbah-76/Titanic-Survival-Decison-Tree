@@ -40,3 +40,24 @@ Project Description 📄
 # Model Overview:
 we have trained our model using Decision Tree and it can be prone to overfitting, so better use better CV techniques and less variation in data
 
+## Model Evaluation:
+<table>
+  <tr>
+    <td>For Text Data: Accuracy</td>
+    
+  </tr>
+  <tr>
+    <td><img src="static/saves/1.jpg" </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Confusin Matrix</td>
+     <td>Auc Roc Curve:</td>
+  </tr>
+  <tr>
+    <td><img src="static/saves/3.jpg"></td>
+    <td><img src="static/saves/2.jpg"></td>
+  </tr>
+ </table>
+        
